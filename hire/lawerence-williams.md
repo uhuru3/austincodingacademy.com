@@ -19,7 +19,6 @@ skills:
   - CSS
   - jQuery
   - Heroku
-  - DigitalOcean
   - Git/GitHub
   - REST APIs
   - Data Visualization
@@ -62,8 +61,8 @@ education:
     logo: https://pbs.twimg.com/profile_images/897474273501003776/jCs6fCxN_400x400.jpg
 
 projects:
-  - name:
-    desc:
-    url:
+  - name: Redux Action Practice
+    desc: An app that is fully fuctional
+    url: "https://github.com/AustinCodingAcademy/redux-action-practice/pull/1"
 
 ---
